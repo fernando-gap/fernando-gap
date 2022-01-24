@@ -19,8 +19,9 @@
 <!-- Title -->
 <h2 align="center">Welcome 👋</h2>
 
-<!-- Summary about me -->
-One of the best things that ever happened to my life was to discover programming. Not only changed my life, but changed the way I see things. I am working with web development with a focus on back-end and devops side. Currently interested in many kinds of programming stuff such as automation, operating systems, and mainly in programming language theory.
+<!-- Summary about me -->![2699](https://user-images.githubusercontent.com/63003765/150855619-d9f862a9-5027-4256-bd8d-3fb7b0779654.png)
+
+One of the best things that ever happened to my life was to discover programming. Not only changed my life, but changed the way I see things. I am working with web development with a focus on back-end and devops side. Currently interested in many kinds of programming stuff such as automation, operating systems, programming language theory, etc..
 
 
 <!-- Technologies -->
@@ -48,6 +49,9 @@ These are the technologies I am working on lately:
 <!-- interests -->
 ## 🪄 Interests 💻
 
+- 💸 **Math** - Mathematics make you more logical being able to see things that others cannot see
+- ⌨️ **Linux** - One of the things I want to master that are cool
+- ⚙️ **Hardware** - All kinds of computer hardware
 
 <!--
 **fernando-gap/fernando-gap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
