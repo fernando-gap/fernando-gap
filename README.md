@@ -45,8 +45,6 @@ These are the technologies I am working on lately:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
 
 
-
-
 <!-- last medium articles -->
 
 
