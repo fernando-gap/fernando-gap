@@ -3,11 +3,9 @@
   <p align="center"><img src="./greetings.gif"></p>
 </div>
 
-<h2 align="center">Welcome 👋</h2>
-
-<!-- social media -->
-<div align="right">
-  <a href="www.linkedin.com/in/fernando-augusto-p">
+<!-- Social media -->
+<div align="center">
+  <a href="https://www.linkedin.com/in/fernando-augusto-p">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white">
   </a>
   <a href="https://twitter.com/nandkis_">
@@ -17,11 +15,16 @@
     <img src="https://img.shields.io/badge/Medium-12100E?labelColor=000000&color=white&style=flat-square&logo=medium&logoColor=white">
   </a>
 </div>
-<!-- summary about me -->
+
+<!-- Title -->
+<h2 align="center">Welcome 👋</h2>
+
+<!-- Summary about me -->
+One of the best things that ever happened to my life was to discover programming. Not only changed my life, but changed the way I see things. I am working with web development with a focus on back-end and devops side. Currently interested in many kinds of programming stuff such as automation, operating systems, and mainly in programming language theory.
 
 
 <!-- Technologies -->
-
+## ☄️ Technologies 👾 🧮
 
 <!-- last medium articles -->
 
