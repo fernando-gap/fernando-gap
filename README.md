@@ -45,10 +45,8 @@ These are the technologies I am working on lately:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
 
 
-<!-- last medium articles -->
-[![Fernando A.](https://github-readme-medium.vercel.app/?username=odnanref)](https://medium.com/@odnanref)
-
 <!-- interests -->
+## 🪄 Interests 💻
 
 
 <!--
