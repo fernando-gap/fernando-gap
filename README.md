@@ -46,7 +46,7 @@ These are the technologies I am working on lately:
 
 
 <!-- last medium articles -->
-
+[![Fernando A.](https://github-readme-medium.vercel.app/?username=odnanref)](https://medium.com/@odnanref)
 
 <!-- interests -->
 
