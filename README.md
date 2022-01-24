@@ -19,7 +19,7 @@
 <!-- Title -->
 <h2 align="center">Welcome 👋</h2>
 
-<!-- Summary about me -->![2699](https://user-images.githubusercontent.com/63003765/150855619-d9f862a9-5027-4256-bd8d-3fb7b0779654.png)
+<!-- Summary about me -->
 
 One of the best things that ever happened to my life was to discover programming. Not only changed my life, but changed the way I see things. I am working with web development with a focus on back-end and devops side. Currently interested in many kinds of programming stuff such as automation, operating systems, programming language theory, etc..
 
