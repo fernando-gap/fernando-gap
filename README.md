@@ -34,8 +34,10 @@ These are the technologies I am working on lately:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat-square&logo=nestjs&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat-square&logo=vuedotjs&logoColor=%234FC08D)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
+![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=flat-square&logo=vagrant&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
@@ -49,9 +51,10 @@ These are the technologies I am working on lately:
 <!-- interests -->
 ## 🪄 Interests 💻
 
-- 💸 **Math** - Mathematics make you more logical being able to see things that others cannot see
-- ⌨️ **Linux** - One of the things I want to master that are cool
+- 💸 **Math** - Mathematics makes new things be possible
+- ⌨️ **Linux** - One of the things I want to master that is cool
 - ⚙️ **Hardware** - All kinds of computer hardware
+- 🦫 **Programming Languages** - wonderful things happens in there
 
 <!--
 **fernando-gap/fernando-gap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
