@@ -21,7 +21,7 @@
 
 <!-- Summary about me -->
 
-A github profile from me to you. So please appreaciate that! Trying different things requires brain power and mostly willpower as well, but when those things are successfully done. Oh god! That shows you can mess up with things a bit. Obviously, that's me. You get broken and cry for it, sometimes you loudly laugh and talk, then you start unbuilding and building things again and again... until you get acknowledge of everything. This is what defines me. 
+A github profile from me to you. So please appreciate that! Trying different things requires brain power and mostly willpower as well, but when those things are successfully done. Oh god! That shows you can mess up with things a bit. Obviously, that's me. You get broken and cry for it, sometimes you loudly laugh and talk, then you start unbuilding and building things again and again... until you get acknowledge of everything. This is what defines me. 
 
 <!-- Technologies -->
 ## ☄️ Technologies 👾 🧮
@@ -50,10 +50,10 @@ These are technologies I use that largely interests me:
 <!-- interests -->
 ## 🪄 Interests 💻
 
-- 💸 **Math** - Mathematics makes new things be possible
-- ⌨️ **Linux** - One of the things I want to master that is cool
-- ⚙️ **Hardware** - All kinds of computer hardware
-- 🦫 **Programming Languages** - wonderful things happens in there
+- 💸 **Math** - Before algorithm there is math
+- ⌨️ **Linux** - Flexible as a door
+- ⚙️ **Hardware** - A screw won't make it work
+- 🦫 **Programming Languages** - How many are there?
 
 <!--
 **fernando-gap/fernando-gap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
