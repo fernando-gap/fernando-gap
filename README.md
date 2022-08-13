@@ -21,12 +21,11 @@
 
 <!-- Summary about me -->
 
-One of the best things that ever happened to my life was to discover programming. Not only changed my life, but changed the way I see things. I am working with web development with a focus on back-end and devops side. Currently interested in many kinds of programming stuff such as automation, operating systems, programming language theory, etc..
-
+A github profile from me to you. So please appreaciate that! Trying different things requires brain power and mostly willpower as well, but when those things are successfully done. Oh god! That shows you can mess up with things a bit. Obviously, that's me. You get broken and cry for it, sometimes you loudly laugh and talk, then you start unbuilding and building things again and again... until you get acknowledge of everything. This is what defines me. 
 
 <!-- Technologies -->
 ## ☄️ Technologies 👾 🧮
-These are the technologies I am working on lately:
+These are technologies I use that largely interests me:
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
