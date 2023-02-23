@@ -5,14 +5,8 @@
 
 <!-- Social media -->
 <div align="center">
-  <a href="https://www.linkedin.com/in/fernando-augusto-p">
+  <a href="https://www.linkedin.com/in/augusto-cs">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://twitter.com/nandkis_">
-    <img src="https://img.shields.io/badge/nandkis_-%231DA1F2.svg?style=flat-square&logo=Twitter&logoColor=white">
-  </a>
-  <a href="https://odnanref.medium.com/">
-    <img src="https://img.shields.io/badge/Medium-12100E?labelColor=000000&color=white&style=flat-square&logo=medium&logoColor=white">
   </a>
 </div>
 
