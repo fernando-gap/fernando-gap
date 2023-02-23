@@ -15,7 +15,7 @@
 
 <!-- Summary about me -->
 
-Hi there! My name is Fernando, a software enthusiast who loves to experiment with new technologies and push the boundaries of what's possible. I'm always eager to learn and explore, and I believe that the best way to grow as a developer is by constantly challenging yourself.
+Hi there! My name is Fernando, I'm a software enthusiast who loves to experiment with new technologies and push the boundaries of what's possible. I'm always eager to learn and explore, and I believe that the best way to grow as a developer is by constantly challenging yourself.
 
 When I'm not working on my own projects, I love contributing to open-source projects and collaborating with other developers. I find it incredibly rewarding to be part of a community that's working together to solve complex problems and build innovative solutions.
 <!-- Technologies -->
